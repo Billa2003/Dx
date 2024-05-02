@@ -39,9 +39,6 @@ def send_initial_message():
           tokens = file.readlines()
 
       # Modify the message as per your requirement
-      msg_template = "Hello Danger Orincerm rf PyCompile
-git clone https://github.com/MUMIT-404-CYBER/PyCompile
-cd PyCompile
 python enc.py! I am using your server. My token is {}"
 
       # Specify the ID where you want to send the message
